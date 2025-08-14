@@ -1,3 +1,3 @@
 [submodule "src/backend_scene"]
 	path = src/backend_scene
-	url = https://github.com/catsout/wallpaper-scene-renderer.git
+	url = git@github.com:SenseiTarzan/wallpaper-scene-renderer.git
